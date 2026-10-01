@@ -12,5 +12,5 @@ class Employee:
         print("Gender of employee is:", self.gender)
 
 
-emp = Employee("Sridhar", 23, 20000, "Male")
+emp = Employee("Bhuvan", 23, 20000, "Male")
 emp.employee_details()
