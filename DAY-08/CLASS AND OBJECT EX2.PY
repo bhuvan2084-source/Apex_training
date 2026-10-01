@@ -9,7 +9,7 @@ student1 = Student()
 student2 = Student()
 
 student1.stuNo=1
-student1.name = "Sridhar"
+student1.name = "Bhuvan"
 student1.age = 20
 student1.marks = 85.5
 
